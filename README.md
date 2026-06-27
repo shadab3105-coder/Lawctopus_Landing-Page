@@ -1,16 +1,42 @@
-# React + Vite
+# ⚖️ Lawctopus Law School — Course Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautiful, responsive landing page built for **Lawctopus Law School's**  
+6-Month Expert Course on *Mastering Contract Drafting & Freelancing*.
 
-Currently, two official plugins are available:
+## 🚀 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React.js** — Component-based UI
+- **Tailwind CSS** — Utility-first styling
+- **Google Fonts** — Playfair Display, Inter, JetBrains Mono
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- Sticky navbar with mobile menu
+- Hero section with animated contract card
+- Trust stats (25K+ learners, 93.2/100 rating)
+- Course curriculum breakdown (month by month)
+- Testimonials from real learners
+- Pricing card with feature checklist
+- Interactive FAQ accordion
+- Fully responsive (mobile + desktop)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 📌 Reference
+
+Original course page: https://www.lawctopus.com/expert-level-mastering-contract-drafting-freelancing/
+
+Live Link for my Project :- https://agent-6a3fc7316cc1021093--tangerine-torte-da5702.netlify.app/
+
+
+Few Screenshots here:- 
+<img width="1916" height="865" alt="image" src="https://github.com/user-attachments/assets/318159ad-622d-49c2-adb3-33dd5d058c17" />
+<img width="1890" height="597" alt="image" src="https://github.com/user-attachments/assets/61d75d22-7329-4688-9cdb-454a3528d01c" />
+<img width="1888" height="599" alt="image" src="https://github.com/user-attachments/assets/bedc5f56-c03f-4d2c-baf8-1b95b352905c" />
+
+
+
+## 📄 License
+
+This project is for educational/portfolio purposes only.  
+All course content belongs to © Lawctopus Law School.
